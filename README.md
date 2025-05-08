@@ -24,7 +24,6 @@ Welcome to my GitHub profile! I'm a passionate learner and developer specializin
 - **Robotic Process Automation:** Implementing AI-driven solutions to automate repetitive tasks for businesses.
 
 ## 🔗 Connect with Me
-- [LinkedIn] (https://www.linkedin.com/in/malaha-azam-)
 
 - [Email](mailto: malahah.azam@gmail.com)
 
